@@ -5,20 +5,25 @@ body {
   margin: 10% 20%;
   border: 2px #dddddd
   border-spacing: 15px;
- 
+
+  
 }
 
 .main-header{
   text-align: center;
   text-transform:uppercase;
-
+  
+  
 }
 
 .contact-header{
   text-align: center;
   text-transform:lowercase;
   padding-bottom: 10px;
+  
  
+ 
+  
 }
 
 .skills-header{
@@ -27,11 +32,12 @@ body {
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
   background-color: #353935;
-
+ 
+ 
 }
   
  .experience-header{
-  text-align: center;
+ text-align: center;
   text-transform:uppercase;
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
@@ -40,7 +46,7 @@ body {
 }
     
  .education-header{
-  text-align: center;
+   text-align: center;
   text-transform:uppercase;
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
