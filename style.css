@@ -1,0 +1,48 @@
+body {
+  background-color: #633974;
+  color: #D4AC0D;
+  font-family: Garamond, serif;
+  margin: 20% 10%
+  border: 2px #dddddd
+  border-spacing: 20px;
+
+  
+}
+
+.main-header{
+  text-align: center;
+  text-transform:uppercase;
+  
+}
+
+.contact-header{
+  text-align: center;
+  text-transform:lowercase;
+ 
+  
+}
+
+.skills-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #D4AC0D;
+  border-bottom: 2px solid #D4AC0D;
+  background-color: #D7BDE2 
+  
+}
+  
+ .experience-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #D4AC0D;
+  border-bottom: 2px solid #D4AC0D;
+  background-color: #D7BDE2 
+}
+    
+ .education-header{
+  text-align: center;
+  text-transform:uppercase;
+  border-top: 2px solid #D4AC0D;
+  border-bottom: 2px solid #D4AC0D;
+   background-color: #D7BDE2 
+}
