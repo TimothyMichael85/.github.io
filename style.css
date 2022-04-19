@@ -1,5 +1,5 @@
 body {
-  background-color: #343434
+  background-color: #28282B;
   color: #848884;
   font-family: Garamond, serif;
   margin: 10% 20%;
@@ -31,7 +31,7 @@ body {
   text-transform:uppercase;
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
-  background-color: #353935;
+  background-color: #1B1212;
  
  
 }
@@ -41,7 +41,7 @@ body {
   text-transform:uppercase;
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
-  background-color: #353935
+  background-color: #1B1212;
   
 }
     
@@ -50,5 +50,6 @@ body {
   text-transform:uppercase;
   border-top: 2px solid #848884;
   border-bottom: 2px solid #848884;
-  background-color: #353935 
+  background-color: #1B1212;
+   
 }
