@@ -12,6 +12,7 @@ body {
 .main-header{
   text-align: center;
   text-transform:uppercase;
+  text-shadow: 5px 5px 5px #1B1212;
   
   
 }
