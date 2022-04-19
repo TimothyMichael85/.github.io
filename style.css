@@ -22,10 +22,17 @@ body {
   text-transform:lowercase;
   padding-bottom: 10px;
   
+  
  
  
   
 }
+
+a{
+   color: #E5E4E2;
+  
+}
+
 
 .skills-header{
   text-align: center;
